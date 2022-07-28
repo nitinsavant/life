@@ -10,7 +10,7 @@ This program was built with Go v1.12
 
 2. Navigate to the newly created directory
 
-`cd Life`
+`cd life`
 
 2. Run game
 
